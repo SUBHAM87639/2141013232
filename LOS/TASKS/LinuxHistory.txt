@@ -1,0 +1,5 @@
+Linux was created by Linux Torvalds in 1991 as a free and open source operating system.
+It is based on Unix principles and follows the philosophy of GNU, initiated by Richard Stallman.
+The main goals include freedom to study, modify, and distribute software.
+Linux is known for its stability, security, and strong community support.
+
